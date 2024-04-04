@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\bin\Debug\net6.0\Fashion Boutique.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\refint\Fashion Boutique.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\Fashion Boutique.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fashion Boutique\obj\Debug\net6.0\ref\Fashion Boutique.dll

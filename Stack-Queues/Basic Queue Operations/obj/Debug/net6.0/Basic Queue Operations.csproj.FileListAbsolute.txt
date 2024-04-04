@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\bin\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\refint\Basic Queue Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\Basic Queue Operations.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Queue Operations\obj\Debug\net6.0\ref\Basic Queue Operations.dll

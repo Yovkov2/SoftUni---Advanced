@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\net6.0\Maximum and Minimum Element.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\net6.0\Maximum and Minimum Element.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\net6.0\Maximum and Minimum Element.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\net6.0\Maximum and Minimum Element.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\bin\Debug\net6.0\Maximum and Minimum Element.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\refint\Maximum and Minimum Element.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\Maximum and Minimum Element.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Maximum and Minimum Element\obj\Debug\net6.0\ref\Maximum and Minimum Element.dll

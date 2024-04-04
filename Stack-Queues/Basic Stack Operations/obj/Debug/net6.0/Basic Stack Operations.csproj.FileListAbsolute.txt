@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\bin\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\refint\Basic Stack Operations.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\Basic Stack Operations.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Basic Stack Operations\obj\Debug\net6.0\ref\Basic Stack Operations.dll

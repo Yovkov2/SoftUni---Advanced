@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\bin\Debug\net6.0\Fast Food.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\bin\Debug\net6.0\Fast Food.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\bin\Debug\net6.0\Fast Food.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\bin\Debug\net6.0\Fast Food.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\bin\Debug\net6.0\Fast Food.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\refint\Fast Food.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\Fast Food.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Fast Food\obj\Debug\net6.0\ref\Fast Food.dll
