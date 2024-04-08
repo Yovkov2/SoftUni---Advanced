@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.exe
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.deps.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\bin\Debug\net6.0\Balanced Parentheses.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\refint\Balanced Parentheses.dll
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.pdb
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\Balanced Parentheses.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Basic Stack Operations\Balanced Parentheses\obj\Debug\net6.0\ref\Balanced Parentheses.dll
