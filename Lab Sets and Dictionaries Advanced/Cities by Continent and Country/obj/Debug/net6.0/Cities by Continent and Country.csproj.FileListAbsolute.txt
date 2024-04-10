@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\refint\Cities by Continent and Country.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Cities by Continent and Country\obj\Debug\net6.0\ref\Cities by Continent and Country.dll

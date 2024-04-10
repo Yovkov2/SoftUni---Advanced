@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\bin\Debug\net6.0\Average Student Grades.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\bin\Debug\net6.0\Average Student Grades.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\bin\Debug\net6.0\Average Student Grades.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\bin\Debug\net6.0\Average Student Grades.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\bin\Debug\net6.0\Average Student Grades.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\refint\Average Student Grades.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\Average Student Grades.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Average Student Grades\obj\Debug\net6.0\ref\Average Student Grades.dll

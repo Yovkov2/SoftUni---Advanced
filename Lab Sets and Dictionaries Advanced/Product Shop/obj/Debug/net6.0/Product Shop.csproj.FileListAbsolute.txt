@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\bin\Debug\net6.0\Product Shop.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\bin\Debug\net6.0\Product Shop.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\bin\Debug\net6.0\Product Shop.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\bin\Debug\net6.0\Product Shop.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\bin\Debug\net6.0\Product Shop.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\refint\Product Shop.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\Product Shop.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Product Shop\obj\Debug\net6.0\ref\Product Shop.dll

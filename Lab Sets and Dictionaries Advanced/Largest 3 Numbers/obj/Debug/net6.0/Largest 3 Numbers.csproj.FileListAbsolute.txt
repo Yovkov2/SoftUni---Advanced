@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\bin\Debug\net6.0\Largest 3 Numbers.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\bin\Debug\net6.0\Largest 3 Numbers.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\bin\Debug\net6.0\Largest 3 Numbers.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\bin\Debug\net6.0\Largest 3 Numbers.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\bin\Debug\net6.0\Largest 3 Numbers.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\refint\Largest 3 Numbers.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\Largest 3 Numbers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Largest 3 Numbers\obj\Debug\net6.0\ref\Largest 3 Numbers.dll

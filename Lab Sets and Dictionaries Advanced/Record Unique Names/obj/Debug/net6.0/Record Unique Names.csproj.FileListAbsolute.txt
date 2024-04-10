@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\bin\Debug\net6.0\Record Unique Names.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\bin\Debug\net6.0\Record Unique Names.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\bin\Debug\net6.0\Record Unique Names.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\bin\Debug\net6.0\Record Unique Names.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\bin\Debug\net6.0\Record Unique Names.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\refint\Record Unique Names.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\Record Unique Names.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Record Unique Names\obj\Debug\net6.0\ref\Record Unique Names.dll

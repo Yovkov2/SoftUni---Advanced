@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\bin\Debug\net6.0\Count Same Values in Array.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\refint\Count Same Values in Array.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\Count Same Values in Array.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Count Same Values in Array\obj\Debug\net6.0\ref\Count Same Values in Array.dll

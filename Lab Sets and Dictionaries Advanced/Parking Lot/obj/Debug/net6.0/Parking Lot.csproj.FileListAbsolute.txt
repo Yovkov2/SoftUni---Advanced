@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\bin\Debug\net6.0\Parking Lot.exe
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\bin\Debug\net6.0\Parking Lot.deps.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\bin\Debug\net6.0\Parking Lot.runtimeconfig.json
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\bin\Debug\net6.0\Parking Lot.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\bin\Debug\net6.0\Parking Lot.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\refint\Parking Lot.dll
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.pdb
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\Parking Lot.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Count Same Values in Array\Parking Lot\obj\Debug\net6.0\ref\Parking Lot.dll
