@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.exe
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.deps.json
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.runtimeconfig.json
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.dll
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\bin\Debug\net6.0\Squares in Matrix.pdb
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.dll
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\refint\Squares in Matrix.dll
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.pdb
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\Squares in Matrix.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Diagonal Difference\Squares in Matrix\obj\Debug\net6.0\ref\Squares in Matrix.dll
