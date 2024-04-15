@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.exe
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.deps.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.runtimeconfig.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\bin\Debug\net6.0\MergeFiles.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\refint\MergeFiles.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\MergeFiles.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\MergeFiles\obj\Debug\net6.0\ref\MergeFiles.dll

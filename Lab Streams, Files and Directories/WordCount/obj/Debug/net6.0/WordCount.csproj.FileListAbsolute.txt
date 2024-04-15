@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.exe
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.deps.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.runtimeconfig.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\bin\Debug\net6.0\WordCount.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\refint\WordCount.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\WordCount.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Lab\Skeleton-Lab\WordCount\obj\Debug\net6.0\ref\WordCount.dll
