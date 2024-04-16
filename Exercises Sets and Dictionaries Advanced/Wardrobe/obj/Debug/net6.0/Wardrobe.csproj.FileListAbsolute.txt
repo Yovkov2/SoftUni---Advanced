@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Unique Usernames\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll
