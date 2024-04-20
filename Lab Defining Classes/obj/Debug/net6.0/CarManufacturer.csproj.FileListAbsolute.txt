@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\CarManufacturer\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
