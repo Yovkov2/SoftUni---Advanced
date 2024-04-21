@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.exe
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.deps.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.runtimeconfig.json
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\bin\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\refint\CopyBinaryFile.dll
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.pdb
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\CopyBinaryFile.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\Skeleton_6.0-Exercise\Skeleton-Exercise\CopyBinaryFile\obj\Debug\net6.0\ref\CopyBinaryFile.dll
