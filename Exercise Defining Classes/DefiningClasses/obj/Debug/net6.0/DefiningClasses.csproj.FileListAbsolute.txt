@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\bin\Debug\net6.0\DefiningClasses.exe
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\bin\Debug\net6.0\DefiningClasses.deps.json
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\bin\Debug\net6.0\DefiningClasses.runtimeconfig.json
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\bin\Debug\net6.0\DefiningClasses.dll
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\bin\Debug\net6.0\DefiningClasses.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.dll
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\refint\DefiningClasses.dll
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\DefiningClasses.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DefiningClasses\DefiningClasses\obj\Debug\net6.0\ref\DefiningClasses.dll
