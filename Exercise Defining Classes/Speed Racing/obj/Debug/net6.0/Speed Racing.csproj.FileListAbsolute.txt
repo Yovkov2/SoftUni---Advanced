@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.exe
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.deps.json
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.runtimeconfig.json
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\bin\Debug\net6.0\Speed Racing.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\refint\Speed Racing.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\Speed Racing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Speed Racing\obj\Debug\net6.0\ref\Speed Racing.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\bin\Debug\net6.0\Car Salesman.exe
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\bin\Debug\net6.0\Car Salesman.deps.json
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\bin\Debug\net6.0\Car Salesman.runtimeconfig.json
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\bin\Debug\net6.0\Car Salesman.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\bin\Debug\net6.0\Car Salesman.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\refint\Car Salesman.dll
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.pdb
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\Car Salesman.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\DefiningClasses\Car Salesman\obj\Debug\net6.0\ref\Car Salesman.dll
