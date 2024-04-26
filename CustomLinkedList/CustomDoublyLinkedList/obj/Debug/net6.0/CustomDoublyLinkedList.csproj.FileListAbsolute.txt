@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll

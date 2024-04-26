@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\bin\Debug\net6.0\CustomStack.exe
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\bin\Debug\net6.0\CustomStack.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\refint\CustomStack.dll
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\CustomDoublyLinkedList\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll
