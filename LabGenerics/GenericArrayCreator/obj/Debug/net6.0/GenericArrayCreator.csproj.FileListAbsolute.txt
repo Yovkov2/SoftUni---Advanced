@@ -1,0 +1,4 @@
+C:\Users\yoan2\source\repos\Box\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Box\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Box\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Box\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.CoreCompileInputs.cache

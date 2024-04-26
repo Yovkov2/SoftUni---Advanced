@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\Box\Box\bin\Debug\net6.0\Box.exe
+C:\Users\yoan2\source\repos\Box\Box\bin\Debug\net6.0\Box.deps.json
+C:\Users\yoan2\source\repos\Box\Box\bin\Debug\net6.0\Box.runtimeconfig.json
+C:\Users\yoan2\source\repos\Box\Box\bin\Debug\net6.0\Box.dll
+C:\Users\yoan2\source\repos\Box\Box\bin\Debug\net6.0\Box.pdb
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.dll
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\refint\Box.dll
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.pdb
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\Box.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\Box\Box\obj\Debug\net6.0\ref\Box.dll
