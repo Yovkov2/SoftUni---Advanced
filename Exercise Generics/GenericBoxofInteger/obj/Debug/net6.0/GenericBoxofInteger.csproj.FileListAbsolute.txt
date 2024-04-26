@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\bin\Debug\net6.0\GenericBoxofInteger.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\refint\GenericBoxofInteger.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\GenericBoxofInteger.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofInteger\obj\Debug\net6.0\ref\GenericBoxofInteger.dll

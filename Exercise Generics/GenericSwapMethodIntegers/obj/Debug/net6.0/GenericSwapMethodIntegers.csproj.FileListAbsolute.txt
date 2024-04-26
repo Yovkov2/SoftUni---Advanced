@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\bin\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\refint\GenericSwapMethodIntegers.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\GenericSwapMethodIntegers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericSwapMethodIntegers\obj\Debug\net6.0\ref\GenericSwapMethodIntegers.dll

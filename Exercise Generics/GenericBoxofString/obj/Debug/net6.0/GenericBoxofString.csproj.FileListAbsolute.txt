@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\refint\GenericBoxofString.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericBoxofString\obj\Debug\net6.0\ref\GenericBoxofString.dll
