@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\bin\Debug\net6.0\Threeuple.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\bin\Debug\net6.0\Threeuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll

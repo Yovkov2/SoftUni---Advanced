@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\bin\Debug\net6.0\Tuple.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\bin\Debug\net6.0\Tuple.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\bin\Debug\net6.0\Tuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\bin\Debug\net6.0\Tuple.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\Tuple\obj\Debug\net6.0\ref\Tuple.dll

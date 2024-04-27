@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.exe
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.deps.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.runtimeconfig.json
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\bin\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\refint\GenericCountMethodStrings.dll
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.pdb
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\GenericBoxofString\GenericCountMethodStrings\obj\Debug\net6.0\ref\GenericCountMethodStrings.dll
