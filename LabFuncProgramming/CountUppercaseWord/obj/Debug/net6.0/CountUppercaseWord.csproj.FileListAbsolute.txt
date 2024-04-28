@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\bin\Debug\net6.0\CountUppercaseWord.exe
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\bin\Debug\net6.0\CountUppercaseWord.deps.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\bin\Debug\net6.0\CountUppercaseWord.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\bin\Debug\net6.0\CountUppercaseWord.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\bin\Debug\net6.0\CountUppercaseWord.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\refint\CountUppercaseWord.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\CountUppercaseWord.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\CountUppercaseWord\obj\Debug\net6.0\ref\CountUppercaseWord.dll

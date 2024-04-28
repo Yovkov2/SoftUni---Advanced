@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\bin\Debug\net6.0\SumNumbers.exe
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\bin\Debug\net6.0\SumNumbers.deps.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\bin\Debug\net6.0\SumNumbers.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\bin\Debug\net6.0\SumNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\bin\Debug\net6.0\SumNumbers.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\refint\SumNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\SumNumbers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SumNumbers\obj\Debug\net6.0\ref\SumNumbers.dll

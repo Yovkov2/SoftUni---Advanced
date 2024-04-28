@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\bin\Debug\net6.0\AddVat.exe
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\bin\Debug\net6.0\AddVat.deps.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\bin\Debug\net6.0\AddVat.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\bin\Debug\net6.0\AddVat.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\bin\Debug\net6.0\AddVat.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\refint\AddVat.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\AddVat.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\AddVat\obj\Debug\net6.0\ref\AddVat.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.exe
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.deps.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\bin\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\refint\SortEvenNumbers.dll
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.pdb
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\SortEvenNumbers.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\SortEvenNumbers\SortEvenNumbers\obj\Debug\net6.0\ref\SortEvenNumbers.dll
