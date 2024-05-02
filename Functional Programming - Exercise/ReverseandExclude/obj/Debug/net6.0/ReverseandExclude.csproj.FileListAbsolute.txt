@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.exe
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.deps.json
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.runtimeconfig.json
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.dll
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.pdb
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.dll
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\refint\ReverseandExclude.dll
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.pdb
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\ActionPoint\ReverseandExclude\obj\Debug\net6.0\ref\ReverseandExclude.dll

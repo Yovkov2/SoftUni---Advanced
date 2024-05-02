@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\bin\Debug\net6.0\ActionPoint.exe
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\bin\Debug\net6.0\ActionPoint.deps.json
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\bin\Debug\net6.0\ActionPoint.runtimeconfig.json
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\bin\Debug\net6.0\ActionPoint.dll
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\bin\Debug\net6.0\ActionPoint.pdb
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.dll
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\refint\ActionPoint.dll
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.pdb
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ActionPoint.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\ActionPoint\ActionPoint\obj\Debug\net6.0\ref\ActionPoint.dll

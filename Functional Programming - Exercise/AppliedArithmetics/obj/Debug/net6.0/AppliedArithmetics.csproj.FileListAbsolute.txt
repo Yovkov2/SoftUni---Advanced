@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.exe
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.deps.json
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\bin\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.dll
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\refint\AppliedArithmetics.dll
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.pdb
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\AppliedArithmetics.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\ActionPoint\AppliedArithmetics\obj\Debug\net6.0\ref\AppliedArithmetics.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\bin\Debug\net6.0\KnightsofHonor.exe
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\bin\Debug\net6.0\KnightsofHonor.deps.json
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\bin\Debug\net6.0\KnightsofHonor.runtimeconfig.json
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\bin\Debug\net6.0\KnightsofHonor.dll
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\bin\Debug\net6.0\KnightsofHonor.pdb
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.dll
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\refint\KnightsofHonor.dll
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.pdb
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\KnightsofHonor.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\ActionPoint\KnightsofHonor\obj\Debug\net6.0\ref\KnightsofHonor.dll

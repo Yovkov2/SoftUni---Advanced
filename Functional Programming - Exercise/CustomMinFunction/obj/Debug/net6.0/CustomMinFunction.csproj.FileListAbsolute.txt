@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.exe
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.deps.json
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.runtimeconfig.json
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.dll
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\bin\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.dll
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\refint\CustomMinFunction.dll
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.pdb
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\CustomMinFunction.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\ActionPoint\CustomMinFunction\obj\Debug\net6.0\ref\CustomMinFunction.dll
