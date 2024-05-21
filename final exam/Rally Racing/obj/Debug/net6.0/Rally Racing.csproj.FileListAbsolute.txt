@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\bin\Debug\net6.0\Rally Racing.exe
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\bin\Debug\net6.0\Rally Racing.deps.json
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\bin\Debug\net6.0\Rally Racing.runtimeconfig.json
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\bin\Debug\net6.0\Rally Racing.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\bin\Debug\net6.0\Rally Racing.pdb
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\refint\Rally Racing.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.pdb
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\Rally Racing.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\Rally Racing\obj\Debug\net6.0\ref\Rally Racing.dll

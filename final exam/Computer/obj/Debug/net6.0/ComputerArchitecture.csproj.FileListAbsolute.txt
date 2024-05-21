@@ -1,0 +1,14 @@
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\bin\Debug\net6.0\ComputerArchitecture.exe
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\bin\Debug\net6.0\ComputerArchitecture.deps.json
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\bin\Debug\net6.0\ComputerArchitecture.runtimeconfig.json
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\bin\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\bin\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.AssemblyInfo.cs
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.dll
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\refint\ComputerArchitecture.dll
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.pdb
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ComputerArchitecture.genruntimeconfig.cache
+C:\Users\yoan2\Downloads\ComputerArchitecture_Skeleton_6.0\obj\Debug\net6.0\ref\ComputerArchitecture.dll

@@ -1,0 +1,14 @@
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.exe
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.deps.json
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.runtimeconfig.json
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\bin\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.AssemblyInfo.cs
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\refint\EnergyDrinks.dll
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.pdb
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\EnergyDrinks.genruntimeconfig.cache
+C:\Users\yoan2\source\repos\EnergyDrinks\EnergyDrinks\obj\Debug\net6.0\ref\EnergyDrinks.dll
