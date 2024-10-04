@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.exe
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.deps.json
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.dll
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\bin\Debug\net6.0\PrintEvenNumbers.pdb
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.dll
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\refint\PrintEvenNumbers.dll
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.pdb
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\35988\source\repos\StackAndQueue\PrintEvenNumbers\obj\Debug\net6.0\ref\PrintEvenNumbers.dll

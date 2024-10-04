@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.exe
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.deps.json
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.runtimeconfig.json
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.dll
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.pdb
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.dll
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\refint\StackAndQueue.dll
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.pdb
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.genruntimeconfig.cache
+C:\Users\35988\source\repos\StackAndQueue\StackAndQueue\obj\Debug\net6.0\ref\StackAndQueue.dll
