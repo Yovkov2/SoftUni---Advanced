@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\bin\Debug\net6.0\SumMatrixColumns.exe
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\bin\Debug\net6.0\SumMatrixColumns.deps.json
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\bin\Debug\net6.0\SumMatrixColumns.runtimeconfig.json
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\bin\Debug\net6.0\SumMatrixColumns.dll
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\bin\Debug\net6.0\SumMatrixColumns.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.dll
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\refint\SumMatrixColumns.dll
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\SumMatrixColumns.genruntimeconfig.cache
+C:\Users\35988\source\repos\SumMatrixElements\SumMatrixColumns\obj\Debug\net6.0\ref\SumMatrixColumns.dll

@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\bin\Debug\net6.0\PascalTriangle.exe
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\bin\Debug\net6.0\PascalTriangle.deps.json
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\bin\Debug\net6.0\PascalTriangle.runtimeconfig.json
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\bin\Debug\net6.0\PascalTriangle.dll
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\bin\Debug\net6.0\PascalTriangle.pdb
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.dll
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\refint\PascalTriangle.dll
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.pdb
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\PascalTriangle.genruntimeconfig.cache
+C:\Users\35988\source\repos\SumMatrixElements\PascalTriangle\obj\Debug\net6.0\ref\PascalTriangle.dll

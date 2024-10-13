@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.exe
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.deps.json
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.runtimeconfig.json
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.dll
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\bin\Debug\net6.0\SymbolInMatrix.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.dll
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\refint\SymbolInMatrix.dll
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\SymbolInMatrix.genruntimeconfig.cache
+C:\Users\35988\source\repos\SumMatrixElements\SymbolInMatrix\obj\Debug\net6.0\ref\SymbolInMatrix.dll

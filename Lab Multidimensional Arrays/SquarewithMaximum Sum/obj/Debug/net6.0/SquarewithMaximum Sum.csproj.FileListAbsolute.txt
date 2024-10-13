@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\bin\Debug\net6.0\SquarewithMaximum Sum.exe
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\bin\Debug\net6.0\SquarewithMaximum Sum.deps.json
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\bin\Debug\net6.0\SquarewithMaximum Sum.runtimeconfig.json
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\bin\Debug\net6.0\SquarewithMaximum Sum.dll
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\bin\Debug\net6.0\SquarewithMaximum Sum.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.AssemblyInfo.cs
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.dll
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\refint\SquarewithMaximum Sum.dll
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.pdb
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\SquarewithMaximum Sum.genruntimeconfig.cache
+C:\Users\35988\source\repos\SumMatrixElements\SquarewithMaximum Sum\obj\Debug\net6.0\ref\SquarewithMaximum Sum.dll

@@ -1,0 +1,14 @@
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.exe
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.deps.json
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\refint\PrimaryDiagonal.dll
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\35988\source\repos\SumMatrixElements\PrimaryDiagonal\obj\Debug\net6.0\ref\PrimaryDiagonal.dll
